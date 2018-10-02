@@ -1,0 +1,32 @@
+.product{
+    background-color: white;
+}
+
+
+.item {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+    margin-top: -250px; 
+    margin-left: -250px; 
+}
+  
+    
+
+.deal{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 50%;
+    left: 30%;
+    bottom: 90%;
+    z-index:9999;
+    margin-top: 130px;
+    
+   
+    
+    
+
+  
